@@ -1,11 +1,21 @@
+# Laravel 5.7 Tutorial: Build your First CRUD App with Laravel and MySQL 
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+In this tutorial you'll be learning to use Laravel 5.7 to build a CRUD web app with a MySQL database from scratch starting with the installation of Composer (PHP package manager) to implementing and serving your application.
+
+Read the full tutorial: [Laravel 5.7 Tutorial: Build your First CRUD App with Laravel and MySQL (PHP 7.1)](https://www.techiediaries.com/php-laravel-crud-mysql-tutorial/)
+
+## Prerequisites
+
+This tutorial assumes you have PHP and MySQL installed on your system. Follow the instructions for your operating system to install both of them.
+
+You also need to be familiar with Linux/macOS bash where we'll be executing the commands in this tutorial.
+
+Familiarly with PHP is required since Laravel is based on PHP.
+
+For development I will be using a Ubuntu 16.04 machine so the commands in this tutorial are targeting this system but you should be able to follow this tutorial in any operating system you use.
 
 ## About Laravel
 
